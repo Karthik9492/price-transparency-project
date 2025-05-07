@@ -25,7 +25,10 @@ Azure Data Lake Storage Gen2
 Azure Synapse Analytics
 Power BI, Tableau, Looker
 # Outcomes & Impact:
+
 • Delivered a transparent view of hospital pricing data for consumers and policymakers.
+
 • Enabled insights into healthcare cost variation across providers and regions.
+
 • Enhanced accessibility of complex datasets through user-friendly dashboards.
 
