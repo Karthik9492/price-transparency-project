@@ -1,4 +1,6 @@
 # price-transparency-project
+# Modular Architecture diagram​
+
 # Objective:
 The goal of this project is to promote transparency in hospital pricing by collecting, cleaning, transforming, and analyzing publicly available hospital data. The processed data is then visualized through interactive dashboards for easier interpretation and decision-making.
 Workflow Overview:
