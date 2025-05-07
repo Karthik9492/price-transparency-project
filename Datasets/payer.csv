@@ -1,0 +1,84 @@
+payer_name,payer_id
+Aetna,1
+AmeriHealth Caritas,2
+Bravo,3
+Cigna,4
+Coventry/First Health,5
+Geisinger,6
+Health Partners Plans (Jefferson Health Plan),7
+Health Payors Organization,8
+Highmark BCBS of PA,9
+Highmark Wholecare (prev Gateway),10
+InterGroup,11
+Multiplan,12
+National Provider Network,13
+PA Health & Wellness,14
+Private Health Care Systems,15
+Premier Comp Solutions,16
+United Healthcare,17
+American Healthcare Group,18
+Aetna of PA,19
+UPMC Health Plan,20
+UPMC Work Partners,21
+Health Plan of Upper Ohio Valley,22
+Humana,23
+United Healthcare Community Plan for Families,24
+Fidelis,25
+OptumHealth/URN Transplant,26
+Preferred Healthcare System,27
+SelectCare,28
+Health Coalition Partners,29
+Carefirst,30
+Alterwood,31
+United,32
+CareFirst,33
+Blue Cross,34
+Correctional Medical Systems,35
+First Health,36
+GEHA,37
+Geisenger Health Plan,38
+Health Network America,39
+Humana ChoiceCare Network,40
+MultiPlan/PHCS,41
+Peak Health,42
+SelectNet,43
+West Virginia Senior Advantage,44
+Aetna Better Health,45
+The Health Plan,46
+Unicare,47
+United Health Care / UMR,48
+Anthem,49
+Highmark,50
+UHC,51
+WellCare,52
+All Payers,53
+Self Pay,54
+CAREFIRST [201],55
+AETNA [204],56
+CIGNA [210],57
+JOHNS HOPKINS [213],58
+UNITED HEALTHCARE [221],59
+KAISER PERMANENTE HMO [231],60
+WELLPOINT [235],61
+JAI MEDICAL SERVICES [236],62
+MD PHYSICIAN CARE [237],63
+CFCHP MCO [239],64
+UHC COMMUNITY PLAN MCO [240],65
+PRIORITY PARTNERS [241],66
+MEDICAID [243],67
+MEDICARE [245],68
+MEDICARE RAILROAD [246],69
+CAREFIRST ADMINISTRATOR [252],70
+CAREFIRST BLUE CHOICE HMO [253],71
+UNITED HEALTHCARE HMO [254],72
+CIGNA HMO [256],73
+CAREFIRST MARYLAND HEALTH ADVANTAGE MCA [264],74
+FIRST HEALTH NETWORK [268],75
+AETNA MCO [274],76
+HUMANA MCA [282],77
+ALTERWOOD HEALTH [290],78
+MULTIPLAN/PHCS [296],79
+PROVIDER PARTNERS HEALTH PLAN [298],80
+KEYCARE ADVANTAGE [299],81
+COMMUNICARE ADVANTAGE [300],82
+USA MANAGED CARE ORGANIZATION [301],83
